@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/girlyshop/static/css/main.533cacbb.css",
-    "main.js": "/girlyshop/static/js/main.e94f4512.js",
+    "main.js": "/girlyshop/static/js/main.ff4b0ce9.js",
     "static/js/453.e76f6cc9.chunk.js": "/girlyshop/static/js/453.e76f6cc9.chunk.js",
     "index.html": "/girlyshop/index.html",
     "main.533cacbb.css.map": "/girlyshop/static/css/main.533cacbb.css.map",
-    "main.e94f4512.js.map": "/girlyshop/static/js/main.e94f4512.js.map",
+    "main.ff4b0ce9.js.map": "/girlyshop/static/js/main.ff4b0ce9.js.map",
     "453.e76f6cc9.chunk.js.map": "/girlyshop/static/js/453.e76f6cc9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.533cacbb.css",
-    "static/js/main.e94f4512.js"
+    "static/js/main.ff4b0ce9.js"
   ]
 }
